@@ -1,4 +1,4 @@
-# SPIKES ESTUDOS E APRENDIZADOS!!
+Branches e commits semânticos no Git
 Relatório — Branches e commits semânticos no Git
 
 Desenvolvimento da atividade
